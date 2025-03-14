@@ -121,9 +121,11 @@ const test = ()
   * **git push** — Envía los commits locales a un repositorio remoto (como GitHub).
   
   En esta sesión, utilizamos los comandos necesarios para la creación de un repositorio especial de la materia en el cual estaremos subiendo las prácticas y reportes que hagamos.
+  ![hugo](images/githubcat.png)
 
   ## Tercera sesión: Creación de página estática con Hugo y GitHub Actions
   En esta sesión, se nos muestra el uso de Hugo para la creación de la página, en el cual utilizamos como tema Ananke. En esta página estaremos subiendo todas nuestras prácticas y reportes. Para el mejor manejo de esta página, utilizamos GitHub Actions para automatizar todo el proceso de nuestra página de Hugo y ver las versiones de esta misma.
+  ![hugo](images/hugo.png)
 
   ## Conclusión
   En conclusión, esta práctica me ha servido mucho debido a que estoy aprendiendo a usar los diversos comandos que tiene Git, y también a crear una página web estática de forma sencilla con Hugo, así como también ver el gran uso que tiene GitHub Actions, ya que me facilita toda la parte de la automatización. También el uso de Markdown para los futuros repositorios y proyectos que tenga en mente.
