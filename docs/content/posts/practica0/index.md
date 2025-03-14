@@ -129,3 +129,8 @@ const test = ()
 
   ## Conclusión
   En conclusión, esta práctica me ha servido mucho debido a que estoy aprendiendo a usar los diversos comandos que tiene Git, y también a crear una página web estática de forma sencilla con Hugo, así como también ver el gran uso que tiene GitHub Actions, ya que me facilita toda la parte de la automatización. También el uso de Markdown para los futuros repositorios y proyectos que tenga en mente.
+
+  ## Links
+  [REPOSITORIO](https://github.com/rafaael101/PortafolioParadigmas)
+  
+  [PAGINA](https://rafaael101.github.io/PortafolioParadigmas/)
