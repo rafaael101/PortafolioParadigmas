@@ -123,3 +123,4 @@ const test = ()
   En esta sesión, utilizamos los comandos necesarios para la creación de un repositorio especial de la materia en el cual estaremos subiendo las prácticas y reportes que hagamos.
 
   ## Tercera sesión: Creación de página estática con Hugo y GitHub Actions
+  
