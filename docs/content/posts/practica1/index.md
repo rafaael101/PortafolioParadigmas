@@ -1,7 +1,7 @@
 +++
 date = '2025-02-21T08:43:05-08:00'
 draft = false
-title = 'Practica1'
+title = 'Práctica 1: Elementos básicos de los lenguajes de programación'
 summary = 'Edgar Rafael Garcia Ceseña'
 +++
 
