@@ -1,5 +1,5 @@
 +++
-date = '2025-05-16T08:43:05-08:00'
+date = '2025-05-17T10:30:00-06:00'
 draft = false
 title = 'Práctica 2: Python Paradigma Orientado a Objetos'
 summary = 'Edgar Rafael Garcia Ceseña'
