@@ -264,3 +264,8 @@ Este archivo permite llevar el sistema a la web mediante Flask. Se implementan r
 
 # Conclusión
 La práctica permitió construir un sistema completo de gestión de biblioteca, que incluye tanto la lógica orientada a objetos como su representación en una interfaz web. El uso de la Programación Orientada a Objetos permitió estructurar el código de forma modular y reutilizable, facilitando su mantenimiento y escalabilidad.
+
+ ## Links
+[REPOSITORIO](https://github.com/rafaael101/PortafolioParadigmas)
+  
+[PAGINA](https://rafaael101.github.io/PortafolioParadigmas/)
