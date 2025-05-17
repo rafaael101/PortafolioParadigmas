@@ -44,7 +44,6 @@ def __init__(self):
     self.heap_allocations = 0
     self.heap_deallocations = 0
 ```
-
 Posteriormente, la clase cuenta con tres métodos: uno para aumentar las asignaciones en el heap, otro para las desasignaciones, y el tercero para mostrar el estado actual de ambos contadores.
 
 ```python
