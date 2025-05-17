@@ -1,6 +1,6 @@
 +++
-date = 2025-05-16
 draft = false
+date = 2025-05-16
 title = 'Práctica 2: Python Paradigma Orientado a Objetos'
 summary = 'Edgar Rafael Garcia Ceseña'
 +++
