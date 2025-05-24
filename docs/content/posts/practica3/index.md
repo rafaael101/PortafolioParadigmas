@@ -207,3 +207,8 @@ Esta función principal carga un archivo `.env`, intenta abrir un sitio web y lu
 
 # Conclusión
 En conclusión, me pareció muy interesante esta práctica porque en esta práctica se trabajó el paradigma funcional usando Haskell, creando una aplicación para manejar pendientes. El análisis del código me permitió entender más las funciones puras, recursión y cómo se construye una lógica de control sin cambiar estados.
+
+ ## Links
+[REPOSITORIO](https://github.com/rafaael101/PortafolioParadigmas)
+  
+[PAGINA](https://rafaael101.github.io/PortafolioParadigmas/)
