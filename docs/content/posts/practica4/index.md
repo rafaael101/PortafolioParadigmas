@@ -1,6 +1,6 @@
 +++
 draft = false
-date = 2025-05-9
+date = 2025-05-29
 title = 'Práctica 4: Paradigma Lógico'
 summary = 'Edgar Rafael Garcia Ceseña'
 +++
